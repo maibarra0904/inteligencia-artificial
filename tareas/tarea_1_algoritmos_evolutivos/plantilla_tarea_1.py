@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Plantilla de Tarea 1: Algoritmos Genéticos - Problema de la Mochila
-Curso de Python - UNIR
+Carrera de Computación (Sede Milagro) - Universidad Agraria del Ecuador
 
 Instrucciones:
 1. Complete los bloques de código marcados con "# TODO".

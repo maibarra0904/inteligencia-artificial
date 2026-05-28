@@ -1,5 +1,6 @@
-# 🧠 Proyecto Colaborativo: Inteligencia Artificial en Python
-> **Curso de Python - UNIR**
+# 🧠 Proyecto Colaborativo: Inteligencia Artificial
+> **Carrera de Computación - Sede Milagro**
+> **Universidad Agraria del Ecuador**
 >
 > ¡Bienvenidos al repositorio central de prácticas y proyectos de Inteligencia Artificial! Este es un espacio diseñado para el aprendizaje colaborativo, donde compartiremos códigos, resolveremos retos y realizaremos revisiones de código entre compañeros.
 
@@ -62,4 +63,4 @@ Ve al repositorio original en GitHub y abre un **Pull Request**. Describe brevem
 * **Aprende de otros:** ¡Tómate unos minutos para ver y comentar los Pull Requests de tus compañeros!
 
 ---
-*Este repositorio es de uso exclusivo didáctico para la clase de Inteligencia Artificial de la UNIR.*
+*Este repositorio es de uso exclusivo didáctico para la carrera de Computación, Sede Milagro de la Universidad Agraria del Ecuador.*

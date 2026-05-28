@@ -1,5 +1,5 @@
 {
-  "name": "Inteligencia Artificial - UNIR",
+  "name": "Inteligencia Artificial - UAE Sede Milagro",
   "image": "mcr.microsoft.com/devcontainers/python:3.11",
   "customizations": {
     "vscode": {

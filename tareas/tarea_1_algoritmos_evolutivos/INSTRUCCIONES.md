@@ -1,6 +1,7 @@
 # 🧬 Tarea 1: Optimización con Algoritmos Genéticos (Problema de la Mochila)
 > **Módulo: Algoritmos Evolutivos y Optimización**
-> **Curso de Python - UNIR**
+> **Carrera de Computación - Sede Milagro**
+> **Universidad Agraria del Ecuador**
 
 En esta tarea práctica, diseñarás e implementarás un **Algoritmo Genético (AG)** básico para resolver el clásico **Problema de la Mochila (Knapsack Problem)**. Este problema de optimización combinatoria consiste en seleccionar un subconjunto de objetos (cada uno con un peso y valor específicos) para maximizar el valor total sin exceder la capacidad máxima de peso de la mochila.
 
