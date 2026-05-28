@@ -19,16 +19,16 @@ cd inteligencia-artificial
 ### 2. Crear una Rama para tu Tarea
 Nunca trabajes directamente sobre la rama `main`. Crea una rama con tu nombre y el número de la tarea:
 ```bash
-git checkout -b tarea1-tu_nombre_apellido
+git checkout -b tarea1-evolutivos-tu_nombre_apellido
 ```
-*Ejemplo:* `git checkout -b tarea1-mario_ibarra`
+*Ejemplo:* `git checkout -b tarea1-evolutivos-mario_ibarra`
 
 ### 3. Estructura de tus Archivos
-Coloca todas tus entregas en la carpeta `contribuciones/` dentro de una subcarpeta con tu nombre de usuario de GitHub o tu nombre:
+Coloca todas tus entregas en la carpeta `contribuciones/` dentro de una subcarpeta con tu nombre:
 ```text
 inteligencia-artificial/
 ├── contribuciones/
-│   └── tu_nombre_apellido/
+│   └── tu_nombre_apellido_evolutivos/
 │       ├── tarea_1.py
 │       └── README.md
 ```
@@ -37,7 +37,7 @@ inteligencia-artificial/
 ```bash
 git add .
 git commit -m "feat: entrega de Tarea 1 - Tu Nombre"
-git push origin tarea1-tu_nombre_apellido
+git push origin tarea1-evolutivos-tu_nombre_apellido
 ```
 
 ### 5. Crear un Pull Request (PR)
@@ -49,7 +49,7 @@ Ve al repositorio original en GitHub y abre un **Pull Request**. Describe brevem
 
 | Tarea | Descripción | Estado | Enlace |
 | :--- | :--- | :---: | :---: |
-| **Tarea 1** | **Introducción a la IA: Predicción de Precios de Viviendas** | 🟢 Activo | [Ir a Tarea 1](tareas/tarea_1_prediccion_precios/INSTRUCCIONES.md) |
+| **Tarea 1** | **Optimización con Algoritmos Genéticos (Problema de la Mochila)** | 🟢 Activo | [Ir a Tarea 1](tareas/tarea_1_algoritmos_evolutivos/INSTRUCCIONES.md) |
 | **Tarea 2** | Clasificación de Flores Iris (Árboles de Decisión) | 🟡 Próximamente | - |
 | **Tarea 3** | Procesamiento de Lenguaje Natural (Análisis de Sentimiento) | 🔴 Planificado | - |
 
