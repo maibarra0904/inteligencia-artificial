@@ -48,11 +48,18 @@ Ve al repositorio original en GitHub y abre un **Pull Request**. Describe brevem
 
 ## 📅 Lista de Tareas y Retos
 
-| Tarea | Descripción | Estado | Enlace |
-| :--- | :--- | :---: | :---: |
-| **Tarea 1** | **Optimización con Algoritmos Genéticos (Problema de la Mochila)** | 🟢 Activo | [Ir a Tarea 1](tareas/tarea_1_algoritmos_evolutivos/INSTRUCCIONES.md) |
-| **Tarea 2** | Clasificación de Flores Iris (Árboles de Decisión) | 🟡 Próximamente | - |
-| **Tarea 3** | Procesamiento de Lenguaje Natural (Análisis de Sentimiento) | 🔴 Planificado | - |
+| Tarea | Tema y Descripción | Enfoque de Modelado | Estado | Enlace |
+| :--- | :--- | :---: | :---: | :---: |
+| **Tarea 1** | **Algoritmos Genéticos** (Problema de la Mochila) | Simulación Evolutiva | 🟢 Activo | [Ir a Tarea 1](tareas/tarea_1_algoritmos_evolutivos/INSTRUCCIONES.md) |
+| **Tarea 2** | **Recocido Simulado** (Simulated Annealing para Ruteo Vehicular / TSP) | Optimización Metaheurística | 🟡 Próximamente | - |
+| **Tarea 3** | **Lógica Difusa** (Sistema de Control Difuso de Temperatura) | Sistemas Basados en Reglas | 🔴 Planificado | - |
+| **Tarea 4** | **Razonamiento Bayesiano** (Inferencia en Redes Bayesianas de Diagnóstico) | Modelado Probabilístico | 🔴 Planificado | - |
+| **Tarea 5** | **Procesamiento de Lenguaje Natural** (Clasificador de Spam / Modelado de Texto) | Entrenamiento de Modelo (NLP) | 🔴 Planificado | - |
+| **Tarea 6** | **Naive Bayes** (Clasificación de Sentimientos en Reseñas de Películas) | Entrenamiento de Modelo (Clasificación) | 🔴 Planificado | - |
+| **Tarea 7** | **Regresión Lineal** (Predicción del Precio de Viviendas Múltiple) | Entrenamiento de Modelo (Regresión) | 🔴 Planificado | - |
+| **Tarea 8** | **Regresión Logística** (Predicción y Clasificación de Diagnóstico de Salud) | Entrenamiento de Modelo (Clasificación) | 🔴 Planificado | - |
+| **Tarea 9** | **K-Medias (K-Means)** (Segmentación de Clientes por Comportamiento) | Entrenamiento de Modelo (No Supervisado) | 🔴 Planificado | - |
+| **Tarea 10** | **Redes Neuronales Artificiales** (Clasificación de Imágenes MNIST / Dígitos) | Entrenamiento de Modelo (Deep Learning) | 🔴 Planificado | - |
 
 ---
 
